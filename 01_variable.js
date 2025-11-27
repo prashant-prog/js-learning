@@ -9,6 +9,7 @@ Dont use var because of issue in block scope and functional scope
 accountEmail="pts@pts.com"
 accountPassword="23132"
 accountCity="Delhi"
+
 let accountState;
 
 console.table([accountId, accountEmail, accountPassword, accountState]) // output in tabular form
