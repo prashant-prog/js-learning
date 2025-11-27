@@ -24,5 +24,6 @@ console.log(sym1 === sym2); // false
 
 */
 
-console.log(typeof undefined);
-console.log(typeof null);
+console.log(typeof undefined); // Undefined
+console.log(typeof null);   // Object
+
