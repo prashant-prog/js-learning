@@ -15,4 +15,11 @@ let StrNum = String(someNum);
 console.log(StrNum);
 console.log(typeof StrNum);
 
+console.log(undefined == 0);
+console.log(undefined>0);
+console.log(undefined<0);
+
+
+
+
 
